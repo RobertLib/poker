@@ -1,0 +1,9 @@
+První vydání.
+
+• No-Limit Texas Hold'em proti 1 až 5 AI soupeřům
+• Šest soupeřů s vlastním stylem hry, tři obtížnosti
+• Kompletní turnajová pravidla: side poty, dělené poty, dead button, rostoucí blindy
+• Volitelná šance na výhru a čtyřbarevné karty
+• Naváže tam, kde jsi skončil
+• Statistiky a pravidla přímo v aplikaci
+• Kompletně offline, bez reklam a bez nákupů

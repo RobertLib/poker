@@ -8,6 +8,7 @@
 
 /* Begin PBXFileReference section */
 		D4D05864303DFB7C0030D8D2 /* poker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = poker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4D05881303DFB7C0030D8D2 /* pokerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pokerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -16,10 +17,22 @@
 			path = poker;
 			sourceTree = "<group>";
 		};
+		D4D05882303DFB7C0030D8D2 /* pokerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = pokerTests;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		D4D05861303DFB7C0030D8D2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4D05884303DFB7C0030D8D2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,6 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				D4D05866303DFB7C0030D8D2 /* poker */,
+				D4D05882303DFB7C0030D8D2 /* pokerTests */,
 				D4D05865303DFB7C0030D8D2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -41,11 +55,30 @@
 			isa = PBXGroup;
 			children = (
 				D4D05864303DFB7C0030D8D2 /* poker.app */,
+				D4D05881303DFB7C0030D8D2 /* pokerTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
+
+/* Begin PBXContainerItemProxy section */
+		D4D05887303DFB7C0030D8D2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D4D0585C303DFB7C0030D8D2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D4D05863303DFB7C0030D8D2;
+			remoteInfo = poker;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXTargetDependency section */
+		D4D05886303DFB7C0030D8D2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D4D05863303DFB7C0030D8D2 /* poker */;
+			targetProxy = D4D05887303DFB7C0030D8D2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXNativeTarget section */
 		D4D05863303DFB7C0030D8D2 /* poker */ = {
@@ -70,6 +103,29 @@
 			productReference = D4D05864303DFB7C0030D8D2 /* poker.app */;
 			productType = "com.apple.product-type.application";
 		};
+		D4D05880303DFB7C0030D8D2 /* pokerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D4D05888303DFB7C0030D8D2 /* Build configuration list for PBXNativeTarget "pokerTests" */;
+			buildPhases = (
+				D4D05883303DFB7C0030D8D2 /* Sources */,
+				D4D05884303DFB7C0030D8D2 /* Frameworks */,
+				D4D05885303DFB7C0030D8D2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D4D05886303DFB7C0030D8D2 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D4D05882303DFB7C0030D8D2 /* pokerTests */,
+			);
+			name = pokerTests;
+			packageProductDependencies = (
+			);
+			productName = pokerTests;
+			productReference = D4D05881303DFB7C0030D8D2 /* pokerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -83,6 +139,10 @@
 					D4D05863303DFB7C0030D8D2 = {
 						CreatedOnToolsVersion = 26.6;
 					};
+					D4D05880303DFB7C0030D8D2 = {
+						CreatedOnToolsVersion = 26.6;
+						TestTargetID = D4D05863303DFB7C0030D8D2;
+					};
 				};
 			};
 			buildConfigurationList = D4D0585F303DFB7C0030D8D2 /* Build configuration list for PBXProject "poker" */;
@@ -90,6 +150,7 @@
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				cs,
 				Base,
 			);
 			mainGroup = D4D0585B303DFB7C0030D8D2;
@@ -100,6 +161,7 @@
 			projectRoot = "";
 			targets = (
 				D4D05863303DFB7C0030D8D2 /* poker */,
+				D4D05880303DFB7C0030D8D2 /* pokerTests */,
 			);
 		};
 /* End PBXProject section */
@@ -112,10 +174,24 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		D4D05885303DFB7C0030D8D2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		D4D05860303DFB7C0030D8D2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D4D05883303DFB7C0030D8D2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -178,7 +254,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -236,7 +312,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -256,11 +332,14 @@
 				DEVELOPMENT_TEAM = K6GM85X5D7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Ace High";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.card-games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -273,7 +352,7 @@
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -288,11 +367,14 @@
 				DEVELOPMENT_TEAM = K6GM85X5D7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Ace High";
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.card-games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -305,8 +387,44 @@
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 6.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D4D05889303DFB7C0030D8D2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.rob.pokerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/poker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/poker";
+				BUNDLE_LOADER = "$(TEST_HOST)";
+			};
+			name = Debug;
+		};
+		D4D0588A303DFB7C0030D8D2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cz.rob.pokerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 6.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/poker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/poker";
+				BUNDLE_LOADER = "$(TEST_HOST)";
 			};
 			name = Release;
 		};
@@ -327,6 +445,15 @@
 			buildConfigurations = (
 				D4D05870303DFB7D0030D8D2 /* Debug */,
 				D4D05871303DFB7D0030D8D2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D4D05888303DFB7C0030D8D2 /* Build configuration list for PBXNativeTarget "pokerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D4D05889303DFB7C0030D8D2 /* Debug */,
+				D4D0588A303DFB7C0030D8D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

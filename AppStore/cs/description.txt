@@ -1,0 +1,46 @@
+Opravdový No-Limit Texas Hold'em, kompletně offline. Posaď proti sobě až pět AI soupeřů a hraj turnaj, který skončí, až bude mít někdo všechny žetony. Bez reklam, bez nákupů, bez účtu, bez internetu.
+
+POKEROVÝ ENGINE, KTERÝ PRAVIDLA UMÍ
+Pravidla jsou opravdu naprogramovaná, ne jen přibližná: správné minimální navýšení, neúplné all-iny, vlastní side pot pro každý krátký stack, dělené poty i dead button a dead small blind, jak soupeři odpadávají. Vyhodnocování kombinací je ověřené proti výsledkům hrubé síly — tvůj straight nikdy nepřehlédne.
+
+ŠEST SOUPEŘŮ, PĚT MÍST
+Každý má svůj styl — jak těsně hraje, jak je agresivní, jak často blafuje a jak rád staví pasti. Kolik jich proti sobě posadíš, je na tobě:
+• Viktor — mazaný a agresivní
+• Rosa — trpělivá, udeří tvrdě
+• Moose — dorovná úplně všechno
+• Rex — naprostý maniak
+• Greta — ledově klidná skála
+• Ace — vyrovnaný profík
+Svoji šanci si počítají metodou Monte Carlo a ze tvého sázení si čtou, co můžeš držet. Na těžké obtížnosti berou sázky vážně, na snadné je téměř nevnímají.
+
+STŮL PODLE SEBE
+• 1 až 5 soupeřů
+• Snadná, střední nebo těžká obtížnost
+• Počáteční žetony 500, 1000, 2500 nebo 5000
+• Blindy pevné, pomalé, střední nebo turbo
+• Rozdávání v klidu, normálně nebo rychle
+• Volitelné zobrazení šance na výhru
+• Čtyřbarevné karty, pokud je máš radši
+• Čtyři sukna stolu: smaragdové, safírové, granátové a půlnoční
+
+NA JEDNO ROZDÁNÍ VE VLAKU
+Hra se sama ukládá mezi rozdáními, takže můžeš aplikaci zavřít v polovině turnaje a vrátit se ke stejnému stolu později. Když odejdeš uprostřed rozdání, žetony, které jsi už vsadil, propadnou — přesně jako když vstaneš od skutečného stolu.
+
+STATISTIKY, KTERÉ DÁVAJÍ SMYSL
+Vyhraná rozdání a hry, úspěšnost, největší výhra z jednoho rozdání, nejdelší šňůra, vyhrané showdowny a nejlepší kombinace, jakou jsi kdy složil.
+
+JAK HRÁT, PŘÍMO V APLIKACI
+Obrazovka s pravidly a všemi deseti kombinacemi vykreslenými skutečnými kartami, plus Texas Hold'em vysvětlený za šedesát sekund. Žádný tutoriál, který musíš protrpět, žádné odemykání, žádné úrovně k vygrindování.
+
+FÉROVÁ HRA
+• Žádné reklamy
+• Žádné nákupy v aplikaci
+• Žádné časovače žetonů, žádné dobíjení, žádné čekání
+• Žádný účet, žádné přihlašování, žádný sběr dat
+• Funguje kompletně offline — aplikace neobsahuje vůbec žádný síťový kód
+• Čeština i angličtina
+• iPhone i iPad
+
+Hraje se pouze o herní žetony. O nic se nesází, nic se nevyplácí, nic není na prodej.
+
+Jen poker. Nic víc.

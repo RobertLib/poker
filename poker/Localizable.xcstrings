@@ -1,0 +1,3946 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "a11y.back": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zpět"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back"
+          }
+        }
+      }
+    },
+    "a11y.betOf %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ sází %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ bets %2$@"
+          }
+        }
+      }
+    },
+    "a11y.closeRaisePanel": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zavřít nastavení sázky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close bet sizing"
+          }
+        }
+      }
+    },
+    "a11y.closeSheet": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zavřít"
+          }
+        }
+      }
+    },
+    "a11y.deadButton": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mrtvý dealer button"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dead button"
+          }
+        }
+      }
+    },
+    "a11y.dealerButton": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dealer button"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dealer button"
+          }
+        }
+      }
+    },
+    "a11y.leaveTable": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odejít od stolu"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave the table"
+          }
+        }
+      }
+    },
+    "a11y.muteSound": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vypnout zvuk"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mute sound"
+          }
+        }
+      }
+    },
+    "a11y.opponentCount %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "variations": {
+            "plural": {
+              "few": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld soupeři"
+                }
+              },
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld soupeř"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld soupeřů"
+                }
+              }
+            }
+          }
+        },
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld opponent"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld opponents"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "a11y.seat.out": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vyřazen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Out of the game"
+          }
+        }
+      }
+    },
+    "a11y.seat.thinking": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Přemýšlí"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thinking"
+          }
+        }
+      }
+    },
+    "a11y.unmuteSound": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zapnout zvuk"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unmute sound"
+          }
+        }
+      }
+    },
+    "a11y.yourBet %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tvoje sázka, %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your bet, %@"
+          }
+        }
+      }
+    },
+    "a11y.yourStack %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tvůj stack, %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your stack, %@"
+          }
+        }
+      }
+    },
+    "a11y.yourTurn": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your turn"
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jsi na tahu"
+          }
+        }
+      }
+    },
+    "action.allIn": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All-in"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All-In"
+          }
+        }
+      }
+    },
+    "action.bet": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vsadit"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bet"
+          }
+        }
+      }
+    },
+    "action.betAmount %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vsadit %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bet %@"
+          }
+        }
+      }
+    },
+    "action.call %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dorovnat %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Call %@"
+          }
+        }
+      }
+    },
+    "action.callAllIn": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dorovnat all-in"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Call All-In"
+          }
+        }
+      }
+    },
+    "action.callPlain": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dorovnat"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Call"
+          }
+        }
+      }
+    },
+    "action.check": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check"
+          }
+        }
+      }
+    },
+    "action.fold": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Složit"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fold"
+          }
+        }
+      }
+    },
+    "action.raise": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zvýšit"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raise"
+          }
+        }
+      }
+    },
+    "action.raiseAmount %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zvýšit %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raise %@"
+          }
+        }
+      }
+    },
+    "blindSpeed.fixed": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pevné"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fixed"
+          }
+        }
+      }
+    },
+    "blindSpeed.normal": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Středně"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        }
+      }
+    },
+    "blindSpeed.slow": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pomalu"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slow"
+          }
+        }
+      }
+    },
+    "blindSpeed.turbo": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turbo"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turbo"
+          }
+        }
+      }
+    },
+    "bubble.allIn %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All-in %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All-In %@"
+          }
+        }
+      }
+    },
+    "bubble.bet %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sázka %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bet %@"
+          }
+        }
+      }
+    },
+    "bubble.bigBlind %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BB %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BB %@"
+          }
+        }
+      }
+    },
+    "bubble.call %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dorovnání %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Call %@"
+          }
+        }
+      }
+    },
+    "bubble.raise %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zvýšení %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raise %@"
+          }
+        }
+      }
+    },
+    "bubble.smallBlind %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SB %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SB %@"
+          }
+        }
+      }
+    },
+    "card.name %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$@ %1$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ of %2$@"
+          }
+        }
+      }
+    },
+    "common.cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zrušit"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "difficulty.easy": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snadná"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Easy"
+          }
+        }
+      }
+    },
+    "difficulty.hard": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Těžká"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hard"
+          }
+        }
+      }
+    },
+    "difficulty.normal": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Střední"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        }
+      }
+    },
+    "felt.emerald": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smaragdová"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Emerald"
+          }
+        }
+      }
+    },
+    "felt.garnet": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Granátová"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Garnet"
+          }
+        }
+      }
+    },
+    "felt.midnight": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Půlnoční"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Midnight"
+          }
+        }
+      }
+    },
+    "felt.sapphire": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Safírová"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sapphire"
+          }
+        }
+      }
+    },
+    "gameOver.backToMenu": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zpět do menu"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back to Menu"
+          }
+        }
+      }
+    },
+    "gameOver.chipsWon": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Získané žetony"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chips won"
+          }
+        }
+      }
+    },
+    "gameOver.finalBlinds": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Konečné blindy"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Final blinds"
+          }
+        }
+      }
+    },
+    "gameOver.handsPlayed": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odehraných rozdání"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hands played"
+          }
+        }
+      }
+    },
+    "gameOver.lost.body": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tentokrát byl stůl silnější."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The table got the better of you this time."
+          }
+        }
+      }
+    },
+    "gameOver.lost.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "KONEC"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BUSTED"
+          }
+        }
+      }
+    },
+    "gameOver.playAgain": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hrát znovu"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Play Again"
+          }
+        }
+      }
+    },
+    "gameOver.rematch": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odveta"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rematch"
+          }
+        }
+      }
+    },
+    "gameOver.won.body": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vybral jsi celý stůl."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You cleaned out the whole table."
+          }
+        }
+      }
+    },
+    "gameOver.won.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VÍTĚZ!"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CHAMPION!"
+          }
+        }
+      }
+    },
+    "gameSpeed.fast": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rychle"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fast"
+          }
+        }
+      }
+    },
+    "gameSpeed.normal": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normální"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Normal"
+          }
+        }
+      }
+    },
+    "gameSpeed.relaxed": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "V klidu"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relaxed"
+          }
+        }
+      }
+    },
+    "hand.flush": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Barva"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flush"
+          }
+        }
+      }
+    },
+    "hand.fourOfAKind": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Čtveřice"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Four of a Kind"
+          }
+        }
+      }
+    },
+    "hand.fullHouse": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full house"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full House"
+          }
+        }
+      }
+    },
+    "hand.highCard": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vysoká karta"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "High Card"
+          }
+        }
+      }
+    },
+    "hand.name.flush %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Barva do %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@-High Flush"
+          }
+        }
+      }
+    },
+    "hand.name.fourOfAKind %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Čtveřice %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Four %@"
+          }
+        }
+      }
+    },
+    "hand.name.fullHouse %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full house: %1$@ a %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ Full of %2$@"
+          }
+        }
+      }
+    },
+    "hand.name.highCard %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vysoká karta: %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ High"
+          }
+        }
+      }
+    },
+    "hand.name.pair %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pár %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pair of %@"
+          }
+        }
+      }
+    },
+    "hand.name.straight %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Postupka do %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Straight to the %@"
+          }
+        }
+      }
+    },
+    "hand.name.straightFlush %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Postupka v barvě do %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Straight Flush to the %@"
+          }
+        }
+      }
+    },
+    "hand.name.threeOfAKind %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trojice %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three %@"
+          }
+        }
+      }
+    },
+    "hand.name.twoPair %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dva páry: %1$@ a %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Two Pair, %1$@ & %2$@"
+          }
+        }
+      }
+    },
+    "hand.pair": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pár"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pair"
+          }
+        }
+      }
+    },
+    "hand.royalFlush": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Royal flush"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Royal Flush"
+          }
+        }
+      }
+    },
+    "hand.straight": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Postupka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Straight"
+          }
+        }
+      }
+    },
+    "hand.straightFlush": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Postupka v barvě"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Straight Flush"
+          }
+        }
+      }
+    },
+    "hand.threeOfAKind": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trojice"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three of a Kind"
+          }
+        }
+      }
+    },
+    "hand.twoPair": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dva páry"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Two Pair"
+          }
+        }
+      }
+    },
+    "hud.winChance %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Šance %lld%%"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Win %lld%%"
+          }
+        }
+      }
+    },
+    "label.allIn": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ALL-IN"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ALL-IN"
+          }
+        }
+      }
+    },
+    "label.out": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "KONEC"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OUT"
+          }
+        }
+      }
+    },
+    "menu.continue %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pokračovat · %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue · %@"
+          }
+        }
+      }
+    },
+    "menu.footer": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Offline · Bez reklam · Jen poker"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Offline · No ads · Just poker"
+          }
+        }
+      }
+    },
+    "menu.howToPlay": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jak hrát"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How to Play"
+          }
+        }
+      }
+    },
+    "menu.newGame": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nová hra"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Game"
+          }
+        }
+      }
+    },
+    "menu.play": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hrát"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Play"
+          }
+        }
+      }
+    },
+    "menu.settings": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nastavení"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "menu.statistics": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statistiky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statistics"
+          }
+        }
+      }
+    },
+    "menu.subtitle": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TEXAS HOLD'EM POKER"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TEXAS HOLD'EM POKER"
+          }
+        }
+      }
+    },
+    "opponent.ace.tagline": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vyrovnaný profík"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Balanced pro"
+          }
+        }
+      }
+    },
+    "opponent.greta.tagline": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ledově klidná skála"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ice-cold rock"
+          }
+        }
+      }
+    },
+    "opponent.moose.tagline": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dorovná úplně všechno"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calls everything"
+          }
+        }
+      }
+    },
+    "opponent.rex.tagline": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Naprostý maniak"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Total maniac"
+          }
+        }
+      }
+    },
+    "opponent.rosa.tagline": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trpělivá, udeří tvrdě"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Patient, strikes hard"
+          }
+        }
+      }
+    },
+    "opponent.viktor.tagline": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mazaný a agresivní"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sly and aggressive"
+          }
+        }
+      }
+    },
+    "player.you": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ty"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You"
+          }
+        }
+      }
+    },
+    "preset.allIn": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All-in"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All-In"
+          }
+        }
+      }
+    },
+    "preset.halfPot": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "½ potu"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "½ Pot"
+          }
+        }
+      }
+    },
+    "preset.min": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Min"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Min"
+          }
+        }
+      }
+    },
+    "preset.pot": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pot"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pot"
+          }
+        }
+      }
+    },
+    "preset.threeQuarterPot": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¾ potu"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¾ Pot"
+          }
+        }
+      }
+    },
+    "quit.keepPlaying": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hrát dál"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep Playing"
+          }
+        }
+      }
+    },
+    "quit.leave": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odejít ze hry"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave Game"
+          }
+        }
+      }
+    },
+    "quit.message": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hra je uložená — z menu se k ní můžeš vrátit."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This game is saved — you can pick it up from the menu."
+          }
+        }
+      }
+    },
+    "quit.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Odejít od stolu?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave the table?"
+          }
+        }
+      }
+    },
+    "raisePanel.bet": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sázka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bet"
+          }
+        }
+      }
+    },
+    "raisePanel.raiseTo": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zvýšit na"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raise to"
+          }
+        }
+      }
+    },
+    "rank.ace.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "esa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aces"
+          }
+        }
+      }
+    },
+    "rank.ace.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "es"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aces"
+          }
+        }
+      }
+    },
+    "rank.ace.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "eso"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ace"
+          }
+        }
+      }
+    },
+    "rank.ace.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "esa"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ace"
+          }
+        }
+      }
+    },
+    "rank.eight.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "osmičky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eights"
+          }
+        }
+      }
+    },
+    "rank.eight.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "osmiček"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eights"
+          }
+        }
+      }
+    },
+    "rank.eight.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "osmička"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eight"
+          }
+        }
+      }
+    },
+    "rank.eight.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "osmičky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eight"
+          }
+        }
+      }
+    },
+    "rank.five.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pětky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fives"
+          }
+        }
+      }
+    },
+    "rank.five.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pětek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fives"
+          }
+        }
+      }
+    },
+    "rank.five.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pětka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Five"
+          }
+        }
+      }
+    },
+    "rank.five.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pětky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Five"
+          }
+        }
+      }
+    },
+    "rank.four.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "čtyřky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fours"
+          }
+        }
+      }
+    },
+    "rank.four.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "čtyřek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fours"
+          }
+        }
+      }
+    },
+    "rank.four.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "čtyřka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Four"
+          }
+        }
+      }
+    },
+    "rank.four.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "čtyřky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Four"
+          }
+        }
+      }
+    },
+    "rank.jack.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kluci"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jacks"
+          }
+        }
+      }
+    },
+    "rank.jack.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kluků"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jacks"
+          }
+        }
+      }
+    },
+    "rank.jack.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kluk"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jack"
+          }
+        }
+      }
+    },
+    "rank.jack.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kluka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jack"
+          }
+        }
+      }
+    },
+    "rank.king.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "králové"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kings"
+          }
+        }
+      }
+    },
+    "rank.king.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "králů"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kings"
+          }
+        }
+      }
+    },
+    "rank.king.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "král"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "King"
+          }
+        }
+      }
+    },
+    "rank.king.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "krále"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "King"
+          }
+        }
+      }
+    },
+    "rank.nine.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "devítky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nines"
+          }
+        }
+      }
+    },
+    "rank.nine.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "devítek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nines"
+          }
+        }
+      }
+    },
+    "rank.nine.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "devítka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nine"
+          }
+        }
+      }
+    },
+    "rank.nine.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "devítky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nine"
+          }
+        }
+      }
+    },
+    "rank.queen.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dámy"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Queens"
+          }
+        }
+      }
+    },
+    "rank.queen.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dam"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Queens"
+          }
+        }
+      }
+    },
+    "rank.queen.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dáma"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Queen"
+          }
+        }
+      }
+    },
+    "rank.queen.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dámy"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Queen"
+          }
+        }
+      }
+    },
+    "rank.seven.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sedmičky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sevens"
+          }
+        }
+      }
+    },
+    "rank.seven.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sedmiček"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sevens"
+          }
+        }
+      }
+    },
+    "rank.seven.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sedmička"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seven"
+          }
+        }
+      }
+    },
+    "rank.seven.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "sedmičky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seven"
+          }
+        }
+      }
+    },
+    "rank.six.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "šestky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sixes"
+          }
+        }
+      }
+    },
+    "rank.six.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "šestek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sixes"
+          }
+        }
+      }
+    },
+    "rank.six.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "šestka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Six"
+          }
+        }
+      }
+    },
+    "rank.six.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "šestky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Six"
+          }
+        }
+      }
+    },
+    "rank.ten.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "desítky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tens"
+          }
+        }
+      }
+    },
+    "rank.ten.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "desítek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tens"
+          }
+        }
+      }
+    },
+    "rank.ten.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "desítka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ten"
+          }
+        }
+      }
+    },
+    "rank.ten.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "desítky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ten"
+          }
+        }
+      }
+    },
+    "rank.three.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trojky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Threes"
+          }
+        }
+      }
+    },
+    "rank.three.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trojek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Threes"
+          }
+        }
+      }
+    },
+    "rank.three.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trojka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three"
+          }
+        }
+      }
+    },
+    "rank.three.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trojky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three"
+          }
+        }
+      }
+    },
+    "rank.two.plural": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dvojky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twos"
+          }
+        }
+      }
+    },
+    "rank.two.pluralPossessive": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dvojek"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Twos"
+          }
+        }
+      }
+    },
+    "rank.two.singular": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dvojka"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Two"
+          }
+        }
+      }
+    },
+    "rank.two.singularTarget": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "dvojky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Two"
+          }
+        }
+      }
+    },
+    "result.playerWins %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ vyhrává %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ wins %2$@"
+          }
+        }
+      }
+    },
+    "result.playerWinsWithHand %@ %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ vyhrává %2$@ — %3$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ wins %2$@ with %3$@"
+          }
+        }
+      }
+    },
+    "result.sidePot %1$@ %2$@": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Side pot (%1$@): %2$@"
+          }
+        },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Side pot (%1$@): %2$@"
+          }
+        }
+      }
+    },
+    "result.splitPot %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dělený pot: %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Split pot: %@"
+          }
+        }
+      }
+    },
+    "result.youWin %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vyhráváš %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You win %@"
+          }
+        }
+      }
+    },
+    "result.youWinWithHand %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vyhráváš %1$@ — %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You win %1$@ with %2$@"
+          }
+        }
+      }
+    },
+    "rules.flush.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pět karet jedné barvy"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Any five of one suit"
+          }
+        }
+      }
+    },
+    "rules.fourOfAKind.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Čtyři karty stejné hodnoty"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Four cards of one rank"
+          }
+        }
+      }
+    },
+    "rules.fullHouse.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trojice a pár"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three of a kind + a pair"
+          }
+        }
+      }
+    },
+    "rules.highCard.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nic z toho výše"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "None of the above"
+          }
+        }
+      }
+    },
+    "rules.intro": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Každý hráč dostane dvě vlastní karty. Pět společných karet se otočí ve třech fázích — flop (3), turn (1) a river (1). Sestav nejlepší pětikaretní kombinaci z libovolného spojení svých dvou karet a stolu.\n\nSází se před flopem a po každé další fázi. Až sázení skončí, pot bere nejlepší kombinace — nebo poslední hráč ve hře, když všichni ostatní složí."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Each player gets two private cards. Five community cards are dealt face up in three stages — the flop (3), the turn (1) and the river (1). Make the best five-card hand using any combination of your two cards and the board.\n\nBetting happens before the flop and after each stage. When betting ends, the best hand at showdown wins the pot — or the last player standing takes it if everyone else folds."
+          }
+        }
+      }
+    },
+    "rules.intro.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TEXAS HOLD'EM ZA 60 SEKUND"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TEXAS HOLD'EM IN 60 SECONDS"
+          }
+        }
+      }
+    },
+    "rules.move.allIn": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pošleš doprostřed celý svůj stack. Risk je zisk."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Push your whole stack into the middle. No guts, no glory."
+          }
+        }
+      }
+    },
+    "rules.move.betRaise": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Přitlačíš — ostatní musí dorovnat, nebo složit."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Put pressure on — others must match you or fold."
+          }
+        }
+      }
+    },
+    "rules.move.betRaise.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vsadit / Zvýšit"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bet / Raise"
+          }
+        }
+      }
+    },
+    "rules.move.call": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dorovnáš aktuální sázku a zůstaneš ve hře."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Match the current bet to stay in."
+          }
+        }
+      }
+    },
+    "rules.move.check": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Když není co dorovnávat, pošleš tah dál."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pass the action when there's nothing to call."
+          }
+        }
+      }
+    },
+    "rules.move.fold": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zahodíš karty a zbytek kola jen přihlížíš."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Give up your hand and sit out the rest of the round."
+          }
+        }
+      }
+    },
+    "rules.moves.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TVÉ MOŽNOSTI"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "YOUR MOVES"
+          }
+        }
+      }
+    },
+    "rules.pair.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dvě karty stejné hodnoty"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Two cards of one rank"
+          }
+        }
+      }
+    },
+    "rules.rankings.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SÍLA KOMBINACÍ · OD NEJLEPŠÍ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAND RANKINGS · BEST TO WORST"
+          }
+        }
+      }
+    },
+    "rules.royalFlush.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A-K-Q-J-10 v jedné barvě"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A-K-Q-J-10, one suit"
+          }
+        }
+      }
+    },
+    "rules.straight.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pět po sobě, různé barvy"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Five in a row, mixed suits"
+          }
+        }
+      }
+    },
+    "rules.straightFlush.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pět po sobě v jedné barvě"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Five in a row, one suit"
+          }
+        }
+      }
+    },
+    "rules.threeOfAKind.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tři karty stejné hodnoty"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Three cards of one rank"
+          }
+        }
+      }
+    },
+    "rules.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jak hrát"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "How to Play"
+          }
+        }
+      }
+    },
+    "rules.twoPair.blurb": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dva různé páry"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Two different pairs"
+          }
+        }
+      }
+    },
+    "settings.fourColorDeck": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Čtyřbarevné karty"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Four-Color Deck"
+          }
+        }
+      }
+    },
+    "settings.gameSpeed": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "RYCHLOST HRY"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GAME SPEED"
+          }
+        }
+      }
+    },
+    "settings.haptics": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haptická odezva"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Haptics"
+          }
+        }
+      }
+    },
+    "settings.showOdds": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zobrazovat šanci na výhru"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Win Odds"
+          }
+        }
+      }
+    },
+    "settings.sound": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zvukové efekty"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sound Effects"
+          }
+        }
+      }
+    },
+    "settings.tableFelt": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SUKNO STOLU"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TABLE FELT"
+          }
+        }
+      }
+    },
+    "settings.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nastavení"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "setup.blindsIncrease": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZVYŠOVÁNÍ BLINDŮ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BLINDS INCREASE"
+          }
+        }
+      }
+    },
+    "setup.dealMeIn": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rozdej mi"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Deal Me In"
+          }
+        }
+      }
+    },
+    "setup.difficulty": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OBTÍŽNOST"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DIFFICULTY"
+          }
+        }
+      }
+    },
+    "setup.opponents": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SOUPEŘI"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OPPONENTS"
+          }
+        }
+      }
+    },
+    "setup.startingChips": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "POČÁTEČNÍ ŽETONY"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "STARTING CHIPS"
+          }
+        }
+      }
+    },
+    "setup.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NOVÁ HRA"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NEW GAME"
+          }
+        }
+      }
+    },
+    "stats.bestHandEver": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NEJLEPŠÍ KOMBINACE"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BEST HAND EVER"
+          }
+        }
+      }
+    },
+    "stats.bestStreak": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NEJDELŠÍ ŠŇŮRA"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BEST STREAK"
+          }
+        }
+      }
+    },
+    "stats.biggestWin": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "NEJVĚTŠÍ VÝHRA"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "BIGGEST WIN"
+          }
+        }
+      }
+    },
+    "stats.gamesWon": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VYHRANÉ HRY"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GAMES WON"
+          }
+        }
+      }
+    },
+    "stats.handsWon": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VYHRANÁ ROZDÁNÍ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HANDS WON"
+          }
+        }
+      }
+    },
+    "stats.noBestHand": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dojdi do showdownu a zapiš rekord."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Play a showdown to set a record."
+          }
+        }
+      }
+    },
+    "stats.reset": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vynulovat statistiky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Statistics"
+          }
+        }
+      }
+    },
+    "stats.reset.confirm": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vynulovat všechny statistiky?"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset all statistics?"
+          }
+        }
+      }
+    },
+    "stats.reset.confirmAction": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vynulovat vše"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset Everything"
+          }
+        }
+      }
+    },
+    "stats.showdownsWon": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VYHRANÉ SHOWDOWNY"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SHOWDOWNS WON"
+          }
+        }
+      }
+    },
+    "stats.title": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statistiky"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statistics"
+          }
+        }
+      }
+    },
+    "stats.winRate": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ÚSPĚŠNOST"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WIN RATE"
+          }
+        }
+      }
+    },
+    "street.flop": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flop"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flop"
+          }
+        }
+      }
+    },
+    "street.preflop": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Před flopem"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pre-Flop"
+          }
+        }
+      }
+    },
+    "street.river": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "River"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "River"
+          }
+        }
+      }
+    },
+    "street.turn": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Turn"
+          }
+        }
+      }
+    },
+    "suit.clubs.feminine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "křížová"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clubs"
+          }
+        }
+      }
+    },
+    "suit.clubs.masculine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "křížový"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clubs"
+          }
+        }
+      }
+    },
+    "suit.clubs.neuter": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "křížové"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clubs"
+          }
+        }
+      }
+    },
+    "suit.diamonds.feminine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kárová"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diamonds"
+          }
+        }
+      }
+    },
+    "suit.diamonds.masculine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kárový"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diamonds"
+          }
+        }
+      }
+    },
+    "suit.diamonds.neuter": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "kárové"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diamonds"
+          }
+        }
+      }
+    },
+    "suit.hearts.feminine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "srdcová"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hearts"
+          }
+        }
+      }
+    },
+    "suit.hearts.masculine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "srdcový"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hearts"
+          }
+        }
+      }
+    },
+    "suit.hearts.neuter": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "srdcové"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hearts"
+          }
+        }
+      }
+    },
+    "suit.spades.feminine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "piková"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spades"
+          }
+        }
+      }
+    },
+    "suit.spades.masculine": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pikový"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spades"
+          }
+        }
+      }
+    },
+    "suit.spades.neuter": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "pikové"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spades"
+          }
+        }
+      }
+    },
+    "table.pot %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "POT  %@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "POT  %@"
+          }
+        }
+      }
+    },
+    "toast.blindsUp %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blindy nahoru: %1$@ / %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blinds up: %1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "toast.playerOut %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ končí!"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ is out!"
+          }
+        }
+      }
+    },
+    "topBar.blinds %@ %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blindy %1$@ / %2$@"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blinds %1$@ / %2$@"
+          }
+        }
+      }
+    },
+    "topBar.hand %lld": {
+      "extractionState": "manual",
+      "localizations": {
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ROZDÁNÍ %lld"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HAND %lld"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

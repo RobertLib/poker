@@ -1,0 +1,46 @@
+Real No-Limit Texas Hold'em, offline. Sit down with up to five AI opponents and play a tournament that ends when somebody owns every chip. No ads, no in-app purchases, no account, no internet.
+
+A REAL POKER ENGINE
+The rules are implemented, not approximated: correct minimum raises, incomplete all-ins, a side pot for every short stack, split pots, and the dead button and dead small blind as players bust out. The hand evaluator is cross-checked against a brute-force reference, so it will never miss your straight.
+
+SIX OPPONENTS, FIVE SEATS
+Each one has its own tightness, aggression, bluffing and trapping, and you pick how many of them you face:
+• Viktor — sly and aggressive
+• Rosa — patient, strikes hard
+• Moose — calls everything
+• Rex — total maniac
+• Greta — ice-cold rock
+• Ace — balanced pro
+They estimate their equity by Monte Carlo simulation and read what your betting says about your range. On Hard they take the action at face value; on Easy they barely notice it.
+
+THE TABLE YOU WANT
+• 1 to 5 opponents
+• Easy, Normal or Hard
+• Starting stacks of 500, 1000, 2500 or 5000
+• Blinds fixed, slow, normal or turbo
+• Relaxed, normal or fast dealing
+• Optional win-probability readout on your hand
+• Four-colour deck if you prefer it
+• Four table felts: Emerald, Sapphire, Garnet, Midnight
+
+BUILT FOR ONE HAND ON A TRAIN
+The game saves itself between hands, so you can close the app mid-tournament and pick the same table up later. Leave in the middle of a hand and the chips you have already committed are forfeit — exactly as they would be if you walked away from a real table.
+
+STATISTICS THAT ADD UP
+Hands and games won, win rate, biggest single-hand profit, longest streak, showdowns won, and the best hand you have ever made.
+
+HOW TO PLAY, IN THE APP
+A rules screen with all ten hand rankings drawn out in real cards, plus Texas Hold'em explained in sixty seconds. No tutorial to sit through, no unlock sequence, no levels to grind.
+
+FAIR PLAY
+• No ads
+• No in-app purchases
+• No chip timers, no refills, no waiting
+• No account, no sign-in, no data collected
+• Works completely offline — there is no networking code in the app at all
+• English and Czech
+• iPhone and iPad
+
+Play money only. Nothing is wagered, nothing pays out, nothing is for sale.
+
+Just poker. Nothing else.

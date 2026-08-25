@@ -1,0 +1,9 @@
+First release.
+
+• No-Limit Texas Hold'em against 1 to 5 AI opponents
+• Six opponents with distinct playing styles, three difficulty levels
+• Full tournament rules: side pots, split pots, dead button, rising blinds
+• Optional win-probability readout and four-color deck
+• Resumes where you left off
+• Statistics and a built-in rules reference
+• Fully offline, no ads, no purchases

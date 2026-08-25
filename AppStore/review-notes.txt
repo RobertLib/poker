@@ -1,0 +1,26 @@
+No account or sign-in is required, and there is nothing to unlock — tap Play,
+pick a table and the whole game is available on the first launch.
+
+PLAY MONEY ONLY. The chips are a score, not a currency. There is no wagering, no
+cash-out, no way to buy or earn chips outside a hand, no advertising and no
+in-app purchases of any kind. The app has no StoreKit code and no networking
+code, so it cannot transact with anything. Because the game nonetheless simulates
+poker, the age rating questionnaire is answered "Frequent" for Simulated
+Gambling, which rates the app 18+; the separate Gambling declaration in App
+Information is No, as no real money is involved.
+
+Fully offline. All content is generated at runtime — the cards are drawn with
+shapes and the sounds are synthesised at launch, so the app ships with no assets
+and no network requests. Settings, statistics and a game in progress are stored
+in UserDefaults on the device (declared in poker/PrivacyInfo.xcprivacy, reason
+CA92.1).
+
+How to play a hand: on your turn the bar at the bottom offers Fold, Check/Call
+and Raise. Raise opens a slider with pot-fraction shortcuts and All-in. The
+tournament runs until one seat holds every chip; leaving the table mid-hand
+forfeits the chips already committed and saves the rest, so Continue on the main
+menu resumes the same table.
+
+Localisation: English and Czech, switched by the device language.
+
+The app supports iPhone (portrait) and iPad (portrait and landscape).

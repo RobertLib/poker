@@ -1,0 +1,12 @@
+# Build products
+build/
+DerivedData/
+*.xcuserstate
+
+# App Store media is output, not source: ~200 MB of PNG and H.264 that git
+# cannot compress and would keep for ever, and it is not byte-reproducible
+# either (see AppStore/screenshots.md). Regenerate it with
+# Tools/appstore_media.sh; App Store Connect keeps the record of what shipped.
+AppStore/screenshots/
+AppStore/screenshots-captioned/
+AppStore/preview/
